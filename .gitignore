@@ -1,0 +1,12 @@
+# Ignore common data and model files — do not upload CSV/PKL/XLSX datasets or pickled models
+# Add specific exceptions below if you intentionally want to track a dataset or sample file.
+
+# Data files
+*.csv
+*.xlsx
+
+# Pickled model files
+*.pkl
+
+
+
