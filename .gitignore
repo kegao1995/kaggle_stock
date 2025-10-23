@@ -4,6 +4,8 @@
 # Data files
 *.csv
 *.xlsx
+*.json
+src/xueqiu_data.py
 
 # Pickled model files
 *.pkl
